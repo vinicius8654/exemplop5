@@ -1,3 +1,4 @@
+// vinicius Matos
 // This sketch explores the use of recursion in generative art
 // It was built to accompany a short tutorial article found at
 // https://medium.com/@pasquini/lets-build-a-recursive-tree-with-p5js-8d6d2017e0cb
